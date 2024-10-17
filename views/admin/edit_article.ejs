@@ -1,0 +1,22 @@
+<div class="setions-container">
+
+    <section class="heading">
+        <h1 class="h1">Edit article</h1>
+    </section>
+    <section>
+        <form method="POST" action="/admin/dashboard/edit-article/<%= article.id %>" class="form">
+            <div class="mb-3">
+                <label for="title" class="form-label">Title</label>
+                <input type="text" class="form-control" id="title" name="title" value="<%= article.title %>" required>
+                <label for="title" class="form-label">Slug</label>
+                <input type="text" class="form-control" id="title" name="slug" value="<%= article.slug %>" required>
+
+            </div>
+            <div class="mb-3">
+                <label for="content" class="form-label">Content</label>
+                <textarea class="form-control" id="content" name="content" rows="10" required><%= article.content %></textarea>
+            </div>
+            <button type="submit" class="btn btn-outline-dark">Update</button>
+        </form>
+    </section>
+</div>

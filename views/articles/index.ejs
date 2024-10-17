@@ -1,0 +1,45 @@
+<div class="setions-container">
+
+    <section class="articles my-3">
+        <% if (articles !==undefined) { %>
+            <% articles.forEach( (article)=> { %>
+                <div class="row mb-4 py-3">
+                    <div class="col-md-4">
+                        <div class="bg-image hover-overlay">
+                            <img class="img-fluid" src="<%= article.image %>" alt="<%= article.title %>">
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <%= article.title %>
+                            </h5>
+                            <p class="card-content">
+                                <%= (article.content).slice(0,82) %> ...
+                            </p>
+                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            <a href="/article/<%= article.slug %>" class="pull-right btn btn-outline-dark"> Read
+                                More</a>
+                        </div>
+                    </div>
+                </div>
+                <% }) %>
+                    <% } else { %>
+                        <h2 class="article__heading">No Articles Found</h2>
+                        <% } %>
+    </section>
+    <section class="pagination">
+        <div class="w-100 d-flex justify-content-between">
+            <div class="previous">
+                <% if (page> 1) { %>
+                    <a href="/articles?page=<%= page - 1 %>" class="btn btn-outline-dark">Previous</a>
+                    <% } %>
+            </div>
+            <div class="next">
+                <% if (page < nbPages) { %>
+                    <a href="/articles?page=<%= page + 1 %>" class="btn btn-outline-dark">Next</a>
+                    <% } %>
+            </div>
+        </div>
+    </section>
+</div>

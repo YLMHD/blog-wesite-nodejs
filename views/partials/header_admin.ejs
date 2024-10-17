@@ -1,0 +1,19 @@
+<header class="header">
+    <div class="header-container">
+        <div class="header__logo">
+            <a href="/admin/dashboard">Admin <strong>Panel</strong></a>
+        </div>
+        <nav class="header__nav">
+            <ul>
+                <li><a href="/admin/dashboard/new-article">Add article</a></li>
+            </ul>
+        </nav>
+        <div class="header__form">
+            <div class="authentication">
+                <% if (authenticated) { %>
+                    <a href="/logout" class="btn btn-outline-light">Logout</a>
+                <% } %>
+            </div>
+        </div>
+    </div>
+</header>

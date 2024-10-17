@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Introduction à l'intelligence artificielle",
+    "content": "L'intelligence artificielle (IA) est une branche de l'informatique qui vise à créer des machines capables de reproduire des comportements intelligents.",
+    "slug": "introduction-a-intelligence-artificielle",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Les bases du développement web",
+    "content": "Le développement web consiste à créer et à maintenir des sites internet ou des applications web accessibles via des navigateurs.",
+    "slug": "les-bases-du-developpement-web",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "L'importance du design d'expérience utilisateur (UX)",
+    "content": "Le design UX permet d'améliorer la satisfaction et la fidélité des utilisateurs en améliorant la convivialité, la facilité d'utilisation et l'interaction entre le consommateur et le produit.",
+    "slug": "importance-design-experience-utilisateur-ux",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Les tendances de la cybersécurité en 2024",
+    "content": "Les attaques cybernétiques se multiplient, rendant la cybersécurité essentielle pour protéger les données sensibles des utilisateurs et des entreprises.",
+    "slug": "tendances-cybersecurite-2024",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Comprendre le machine learning",
+    "content": "Le machine learning est une sous-branche de l'IA qui permet aux systèmes d'apprendre automatiquement et de s'améliorer à partir de l'expérience sans être explicitement programmés.",
+    "slug": "comprendre-machine-learning",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "L'impact des réseaux sociaux sur la société",
+    "content": "Les réseaux sociaux ont un impact considérable sur la manière dont les gens interagissent, partagent des informations et se connectent à travers le monde.",
+    "slug": "impact-reseaux-sociaux-societe",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "La révolution des objets connectés (IoT)",
+    "content": "Les objets connectés, ou Internet des Objets (IoT), transforment les industries en offrant des solutions intelligentes pour l'automatisation et l'efficacité.",
+    "slug": "revolution-objets-connectes-iot",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Les bases de la blockchain",
+    "content": "La blockchain est une technologie de registre distribué qui permet des transactions sécurisées, transparentes et immuables sans nécessiter d'autorité centrale.",
+    "slug": "les-bases-blockchain",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "L'évolution du cloud computing",
+    "content": "Le cloud computing offre une infrastructure informatique évolutive et flexible, permettant aux entreprises d'accéder à des ressources informatiques à la demande.",
+    "slug": "evolution-cloud-computing",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Les avancées de la réalité augmentée",
+    "content": "La réalité augmentée (RA) permet d'enrichir notre perception du monde réel en superposant des informations numériques interactives.",
+    "slug": "avances-realite-augmentee",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Rise of AI Technology",
+    "content": "Artificial Intelligence is revolutionizing industries by enabling automation and improving efficiency across various sectors...",
+    "slug": "the-rise-of-ai-technology",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Exploring the Depths of the Ocean",
+    "content": "Marine scientists are making groundbreaking discoveries, uncovering new species and ecosystems in the unexplored depths of the ocean...",
+    "slug": "exploring-depths-ocean",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Top 10 Destinations for Digital Nomads",
+    "content": "With remote work becoming more popular, digital nomads are traveling the world. Here are the top 10 destinations for combining work and travel...",
+    "slug": "top-10-destinations-digital-nomads",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Future of Electric Vehicles",
+    "content": "Electric vehicles (EVs) are gaining momentum as governments push for greener alternatives to reduce carbon emissions...",
+    "slug": "future-of-electric-vehicles",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Benefits of Mindfulness Meditation",
+    "content": "Mindfulness meditation has been proven to reduce stress, improve mental clarity, and enhance overall well-being. Here are the key benefits...",
+    "slug": "benefits-mindfulness-meditation",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Understanding Blockchain Technology",
+    "content": "Blockchain is more than just cryptocurrency. It offers a decentralized, transparent way of conducting transactions securely...",
+    "slug": "understanding-blockchain-technology",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Healthy Eating Habits for a Longer Life",
+    "content": "Incorporating more plant-based foods and cutting down on processed meals can significantly improve longevity and overall health...",
+    "slug": "healthy-eating-habits-longer-life",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Top Gadgets for Home Automation",
+    "content": "Home automation is no longer a futuristic dream. Discover the top gadgets to make your home smarter and more efficient...",
+    "slug": "top-gadgets-home-automation",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Sustainable Fashion: A Growing Trend",
+    "content": "As consumers become more environmentally conscious, the demand for sustainable fashion is on the rise...",
+    "slug": "sustainable-fashion-growing-trend",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Importance of Sleep for Mental Health",
+    "content": "Quality sleep is crucial for maintaining mental well-being. Here's why it's essential to prioritize a good night's rest...",
+    "slug": "importance-of-sleep-mental-health",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Evolution of Mobile Technology",
+    "content": "Mobile phones have come a long way, from basic communication devices to powerful tools for work and entertainment...",
+    "slug": "evolution-of-mobile-technology",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "How to Start Investing in Cryptocurrencies",
+    "content": "Cryptocurrency investments can be profitable but come with risks. Here's a guide for beginners looking to enter the crypto market...",
+    "slug": "how-start-investing-cryptocurrencies",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Science Behind Solar Energy",
+    "content": "Solar energy is becoming an increasingly viable renewable energy source. Here's how it works and its potential for the future...",
+    "slug": "science-behind-solar-energy",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Fitness Tips for a Healthy Lifestyle",
+    "content": "Staying active is key to a healthy life. Here are some simple yet effective fitness tips to incorporate into your routine...",
+    "slug": "fitness-tips-healthy-lifestyle",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Art of Minimalist Living",
+    "content": "Minimalism isn't just about decluttering. It's a way of life that promotes simplicity and mindfulness in all aspects...",
+    "slug": "art-minimalist-living",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "How to Build an Emergency Fund",
+    "content": "An emergency fund is essential for financial stability. Learn how to create and maintain a robust safety net for unexpected expenses...",
+    "slug": "how-build-emergency-fund",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Impact of Climate Change on Wildlife",
+    "content": "Climate change is affecting wildlife habitats worldwide, leading to species migration and extinction. Here's what you need to know...",
+    "slug": "impact-of-climate-change-wildlife",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "How to Improve Your Coding Skills",
+    "content": "Programming is an essential skill in today's digital world. Here's how you can enhance your coding abilities and stay competitive...",
+    "slug": "how-improve-your-coding-skills",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Future of Space Exploration",
+    "content": "As space agencies and private companies plan manned missions to Mars, space exploration is entering a new era of discovery...",
+    "slug": "future-of-space-exploration",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Top 5 Cities for Culinary Experiences",
+    "content": "For food lovers, these top 5 cities around the world offer a rich and diverse culinary scene that you won't want to miss...",
+    "slug": "top-5-cities-culinary-experiences",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Rise of E-commerce in 2024",
+    "content": "E-commerce continues to grow, with new technologies enhancing online shopping experiences and expanding the global market...",
+    "slug": "rise-ecommerce-2024",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Benefits of Learning a Second Language",
+    "content": "Learning a second language has cognitive and social benefits. Here's why you should consider becoming bilingual...",
+    "slug": "benefits-learning-second-language",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The History of Artificial Intelligence",
+    "content": "From its early days as a theoretical concept to today's advanced systems, AI has a rich history filled with breakthroughs...",
+    "slug": "history-artificial-intelligence",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "How to Boost Your Immune System",
+    "content": "A healthy immune system is vital for fighting off infections. Discover natural ways to strengthen your body's defenses...",
+    "slug": "how-boost-immune-system",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "Exploring Virtual Reality in Education",
+    "content": "Virtual Reality (VR) is transforming education by offering immersive learning experiences. Here's how schools are adopting this technology...",
+    "slug": "exploring-virtual-reality-education",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Psychology of Color in Marketing",
+    "content": "Color plays a significant role in influencing consumer behavior. Learn how businesses use color psychology to enhance their marketing efforts...",
+    "slug": "psychology-of-color-marketing",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Best Hiking Trails Around the World",
+    "content": "From the peaks of the Himalayas to the forests of the Amazon, these are the most breathtaking hiking trails you need to explore...",
+    "slug": "best-hiking-trails-world",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "How to Create a Productive Workspace at Home",
+    "content": "Working from home can be challenging. Here's how to set up a workspace that boosts your productivity and keeps you focused...",
+    "slug": "create-productive-workspace-home",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Importance of Mental Health Awareness",
+    "content": "Mental health is a crucial aspect of overall well-being. Raising awareness can help reduce stigma and provide support to those in need...",
+    "slug": "importance-mental-health-awareness",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  },
+  {
+    "title": "The Future of Renewable Energy",
+    "content": "Renewable energy sources such as wind, solar, and hydropower are paving the way for a cleaner and more sustainable future...",
+    "slug": "future-of-renewable-energy",
+    "image": "https://placehold.co/600x400",
+    "author" : "LMHD",
+    "createdAt": "2023-05-14T09:30:00Z",
+    "updatedAt": "2023-06-10T15:45:00Z"
+  }
+]

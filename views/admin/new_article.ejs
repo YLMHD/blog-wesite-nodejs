@@ -1,0 +1,19 @@
+<div class="setions-container">
+    <section class="heading">
+        <h1 class="h1">New article</h1>
+    </section>
+    <section>
+        <form method="POST" action="/admin/dashboard/new-article" class="form">
+            <div class="mb-3">
+                <label for="title" class="form-label">Title</label>
+                <input type="text" class="form-control" id="title" name="title" value="" required>
+            </div>
+            <div class="mb-3">
+                <label for="content" class="form-label">Content</label>
+                <textarea class="form-control" id="content" name="content" rows="10"
+                    required></textarea>
+            </div>
+            <button type="submit" class="btn btn-outline-dark">Add Article</button>
+        </form>
+    </section>
+</div>

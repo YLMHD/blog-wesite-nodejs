@@ -1,0 +1,46 @@
+<div class="setions-container">
+    <section class="author">
+        <div class="author__heading h1">Hello My name is John DOE</div>
+        <div class="author__body">
+            <p>
+                I am a Writer, Blogger, and a Software Developer. I have been working in the software industry for over
+                5 years. I have been writing blogs and articles for over 3 years.
+            </p>
+        </div>
+        <div class="hero">
+            <img src="/images/hero.jpg" alt="John Doe" class="hero__image" width="">
+        </div>
+    </section>
+
+    <section class="articles my-5">
+        <h2 class="h1"> Last articles :</h2>
+
+        <% if (articles !== undefined) { %>
+            <% articles.forEach( (article)=> { %>
+                <div class="row mb-4 py-3">
+                    <div class="col-md-4">
+                        <div class="bg-image hover-overlay">
+                            <img class="img-fluid" src="<%= article.image %>" alt="<%= article.title %>">
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <%= article.title %>
+                            </h5>
+                            <p class="card-content">
+                                <%= (article.content).slice(0,82) %> ...
+                            </p>
+                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            <a href="/article/<%= article.slug %>" class="pull-right btn btn-outline-dark"> Read
+                                More</a>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <% }) %>
+                <% } else { %>
+                        <h2 class="article__heading">No Articles Found</h2>
+                 <% } %>
+    </section>
+</div>

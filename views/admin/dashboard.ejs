@@ -1,0 +1,51 @@
+<div class="setions-container">
+
+    <section class="heading">
+        <h1 class="h1">Admin Panel</h1>
+
+        <h2>Welcome to the Admin panel</h2>
+    </section>
+    <section>
+        <h2>Articles </h2>
+
+        <table class="table table-striped table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">Title</th>
+                    <th scope="col">Date</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% articles.forEach(article=> { %>
+                    <tr>
+                        <td>
+                            <a href="/article/<%= article.slug %>"><%= article.title %> <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                        </td>
+                        <td>
+                            <%= article.date %>
+                        </td>
+                        <td>
+                            <a href="/admin/dashboard/edit-article/<%= article.id %>" class="btn btn-outline-dark">Edit</a>
+                            <a href="/admin/dashboard/delete-article/<%= article.id %>" class="btn btn-outline-danger">Delete</a>
+                        </td>
+                    </tr>
+                    <% }) %>
+            </tbody>
+        </table>
+    </section>
+    <section class="pagination">
+        <div class="w-100 d-flex justify-content-between">
+            <div class="previous">
+                <% if (page> 1) { %>
+                    <a href="/admin/dashboard?page=<%= page - 1 %>" class="btn btn-outline-dark">Previous</a>
+                    <% } %>
+            </div>
+            <div class="next">
+                <% if (page < nbPages) { %>
+                    <a href="/admin/dashboard?page=<%= page + 1 %>" class="btn btn-outline-dark">Next</a>
+                    <% } %>
+            </div>
+        </div>
+    </section>
+</div>
